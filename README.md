@@ -28,6 +28,7 @@
 
 - **Bootstrap** is a popular front-end framework for developing responsive and visually appealing web interfaces. It provides a collection of pre-designed components and a responsive grid system that simplifies the creation of mobile-first websites. Bootstrap's extensive documentation and customizable styles help developers quickly build and maintain consistent and professional-looking user interfaces.
 
+- **Local Storage** is a web storage feature that allows web applications to store data persistently in the user's browser. It provides a simple key-value store with a straightforward API, enabling developers to save data across browser sessions without expiration. Local Storage is ideal for storing user preferences, session data, and other non-sensitive information. Its synchronous API makes it easy to use, though it is limited to storing string data only and has a size limit of around 5MB per domain.
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
