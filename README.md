@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://shoppingcart-react-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Shopping Cart - React / TypeScript</h3>
 </div>
